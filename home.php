@@ -6,7 +6,7 @@
       <h2 class='animated fadeInDown'><?php echo $page->headline ?></h2>
        </section>
        <div class="col-md-2">HOLA</div>
-      <div class='col-md-6'>
+      <div class='col-md-7'>
       <div class='relative-w'>
           <div class='frame-browser animated-when-visible' data-animation-type='bounceInRight'>
             <div class='frame-buttons'>
@@ -20,7 +20,9 @@
           </div>
 		      </div>
         </div>
-        <div class="col-md-4">HOLA2</div>
+        <div class="col-md-3">
+
+        </div>
       </div>
       
 <div class="separator-shadow-bottom bottom-margin">
